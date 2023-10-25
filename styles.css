@@ -238,7 +238,7 @@ body{
     height: 12vmin;
     bottom: 3vmin;
     border-radius: 50% 50% 50% 50% / 80% 80% 20% 20%;
-    background-color: #e24f5f;
+    background-color: #ffa085;
     background-image: none;
     animation: open-flowe--middle  1.4s 1s backwards;
 }
