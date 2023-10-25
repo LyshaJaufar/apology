@@ -71,11 +71,13 @@ body{
     white-space: nowrap; /* Prevent line breaks within the paragraph */
 }
 
+
+
 .text{
     color: white;
     position: absolute;
-    bottom: 82vmin;
-    left:-110%;
+    bottom: 95vmin;
+    left:-160%;
 
     font-family: verdana;
     font-size: 2em;
